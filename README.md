@@ -32,7 +32,7 @@ Install using PIP
 -----------------
 
 ```
-$ pip install djradicale
+$ pip install django-radicale
 ```
 
 Configuration
